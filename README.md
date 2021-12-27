@@ -1,3 +1,3 @@
 # studious-carnival
 
-This project is ceated for building an mp3 music player using java.
+This project is created for building an mp3 music player using java.
