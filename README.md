@@ -1,3 +1,3 @@
 # studious-carnival
 
-This project is created for building an mp3 music player using java.
+This project is Atlas music player version 1.0.0 system built with java
